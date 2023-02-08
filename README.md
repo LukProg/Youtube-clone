@@ -1,4 +1,27 @@
-# Getting Started with Create React App
+# React YouTube Clone App
+Introduction
+This project is a YouTube clone application built using React JS and Material UI. It features a responsive design, with video sections, custom categories, channel pages, and the ability to play videos straight from the app.
+
+## Prerequisites
+Before you begin, you should have a basic understanding of React and Material UI.
+
+## Tech Stack:
+
+React JS,
+Material UI and
+RapidAPI
+
+## Features:
+Responsive design using Material UI and media queries
+
+Video sections with custom categories
+
+Channel pages for displaying video content
+
+Play videos straight from the app
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
